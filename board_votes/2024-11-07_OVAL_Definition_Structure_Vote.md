@@ -1,11 +1,12 @@
 # The OVAL Definition Format vote
 
 2024-11-07
-This vote is to determine if the format of the OVAL document should change in OVAL 6.0
+
+This vote is to determine if the format of the OVAL document should change in OVAL 6.0.
 
 Refer to https://github.com/orgs/OVAL-Community/discussions/162 for additional background on this topic.
 
-#Voting Instructions
+# Voting Instructions
 1.  Enter your vote, followed by your name and organziation
 2.  One vote per organization
 3.  Requires a majority of OVAL board members participating to form a quorum
@@ -13,5 +14,11 @@ Refer to https://github.com/orgs/OVAL-Community/discussions/162 for additional b
 
 # Ballot
 Update OVAL defitions format to be:
-Option 1:  In the prposed encapulated format, but allowing for extended definitions.
-Option 2:  In either the existing OVAL 5.x format, OR the newly proposed encapsulated format with extended definitions.
+1. In the proposed encapulated format, but allowing for extended definitions.
+2. In either the existing OVAL 5.x format, OR the newly proposed encapsulated format with extended definitions.
+
+# Vote Results
+Example:  Option <X>, Your Name, Your Organization
+
+
+
